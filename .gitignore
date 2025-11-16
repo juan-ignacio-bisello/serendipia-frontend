@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Archivos de depuración o temporales
+*.log
+*.pid
+*.seed
+*.tgz
+*.gz
+*.zip
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Tests
+coverage/
+test-output/
+
+# Base de datos local
+dump/
+*.local.db
+*.sqlite
+
+# Build
+dist/
+
+# Git merge conflict backups
+*.orig
