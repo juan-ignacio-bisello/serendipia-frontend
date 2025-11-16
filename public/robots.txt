@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://serendipia-backend.onrender.com/sitemap.xml
